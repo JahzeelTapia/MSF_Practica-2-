@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Software
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jahzeel Abisai
+    family-names: Tapia García
+    email: l22210798@tectijuana.edu.mx
+    affiliation: Tecnológico de México
+  - given-names: Alan Omar
+    family-names: García Toledo
+    email: alan.garciat201@tectijuana.edu.mx
+    affiliation: Tecnológico de México
+repository-code: 'https://github.com/JahzeelTapia/MSF_Practica-2-'
+keywords:
+  - Controlador PID
+  - Sistema de control
+  - Funcion de transferencia
+  - Mecanica pulmonar
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-03-28'
